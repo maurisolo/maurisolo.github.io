@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba</title>
+</head>
+<body>
+    <main>
+        <header>
+            <nav>Hola</nav>
+        </header>
+        <h1>Perfiles de desarolladores</h1>
+        <ul>
+            <li>FrontEnd</li>
+            <ol>
+                <li>HTML</li>
+                <li>CSS3</li>
+                <li>JavaScript</li>
+            </ol>
+        </ul>
+        <ul>
+            <li>BackEnd</li>
+            <ol>
+                <li>Python</li>
+                <li>Java</li>
+                <li>JavaScript</li>
+            </ol>
+        </ul>
+        <ul>
+            <li>FullSatar</li>
+            <ol>
+                <li>DataBase</li>
+                <li>Cloud</li>
+                <li>UI/UX Tools</li>
+            </ol>
+        </ul>
+        <footer>
+            <p>Esto es el Footer</p>
+        </footer>
+    </main>
+</body>
+</html>
